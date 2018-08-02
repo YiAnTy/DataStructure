@@ -27,8 +27,8 @@
       <file leaf-file-name="Array.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Array.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+            <state relative-caret-position="190">
+              <caret line="77" column="24" lean-forward="true" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
               <folding>
                 <element signature="e#193#194#0" expanded="true" />
                 <element signature="e#217#218#0" expanded="true" />
@@ -73,8 +73,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Student.java" />
-        <option value="$PROJECT_DIR$/src/Array.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Array.java" />
       </list>
     </option>
   </component>
@@ -88,10 +88,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="892" />
-    <option name="y" value="3" />
-    <option name="width" value="1026" />
-    <option name="height" value="840" />
+    <option name="x" value="906" />
+    <option name="y" value="63" />
+    <option name="width" value="1014" />
+    <option name="height" value="792" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -177,15 +177,15 @@
       <option name="presentableId" value="Default" />
       <updated>1533107531246</updated>
       <workItem from="1533107534169" duration="7233000" />
-      <workItem from="1533196017913" duration="4571000" />
+      <workItem from="1533196017913" duration="6914000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11804000" />
+    <option name="totallyTimeSpent" value="14147000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="892" y="3" width="1026" height="840" extended-state="0" />
+    <frame x="906" y="63" width="1014" height="792" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -198,12 +198,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31600547" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33821377" />
       <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32970297" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22178218" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17735471" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -281,8 +281,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        <state relative-caret-position="190">
+          <caret line="77" column="24" lean-forward="true" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
           <folding>
             <element signature="e#193#194#0" expanded="true" />
             <element signature="e#217#218#0" expanded="true" />
