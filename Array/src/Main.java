@@ -10,7 +10,7 @@ public class Main {
         for(int i=0;i<scores.length;i++)
             System.out.println(scores[i]);*/
 
-       Array arr = new Array(20);
+       Array<Integer> arr = new Array<>();
        for (int i = 0; i < 10; i++)
            arr.addLast(i);
        System.out.println(arr);
@@ -21,5 +21,16 @@ public class Main {
 
         arr.remove(1);
         System.out.println(arr);
+        arr.remove(1);
+        System.out.println(arr);
+        arr.remove(1);
+        System.out.println(arr);
+        arr.remove(1);
+        System.out.println(arr);
+        arr.remove(1);
+        System.out.println(arr);
+        arr.remove(1);
+        System.out.println(arr);
+
     }
 }
