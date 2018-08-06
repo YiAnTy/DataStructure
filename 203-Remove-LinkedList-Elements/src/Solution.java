@@ -31,6 +31,7 @@ class Solution {
         }
 
         //为什么是head啊 想不清楚
+        //知道了 和原本的head不一样，重写了tostring.
         return dummyHead.next;
     }
 }
