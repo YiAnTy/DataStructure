@@ -31,6 +31,6 @@ class Solution {
         }
 
         //为什么是head啊 想不清楚
-        return head;
+        return dummyHead.next;
     }
 }
